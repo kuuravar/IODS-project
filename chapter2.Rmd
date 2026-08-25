@@ -12,7 +12,8 @@ The data has been preprocessed to include variables on gender, age, attitude, ex
 
 ## Dataset
 
-Begin by loading the analysis data. Let's use the "official" csv-file; an R script to produce the wrangled data is in the [repo](https://github.com/evgrazhda/IODS-project).
+Begin by loading the analysis data. Let's use the "official" csv-file; an R script to produce the wrangled data is in the 
+[repo](https://github.com/kuuravar/IODS-project).
 
 ```{r}
 # read in the data

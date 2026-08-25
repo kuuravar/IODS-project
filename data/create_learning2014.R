@@ -1,4 +1,4 @@
-# Evgeni Grazhdankin
+# Kuura Variskallio
 # 06.11.2021
 # Create `learning2014` dataset.
 

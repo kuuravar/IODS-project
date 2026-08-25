@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-author: "Evgeni Grazhdankin"
+author: "Kuura Variskallio"
 output:
   html_document:
     theme: cosmo

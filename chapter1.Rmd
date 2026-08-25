@@ -27,4 +27,4 @@ the [MOOC](https://mooc.helsinki.fi) platform.
 
 ## Repo
 
-A fork of the course can be found at my [repo](https://github.com/evgrazhda/IODS-project).
+A fork of the course can be found at my [repo](https://github.com/kuuravar/IODS-project).

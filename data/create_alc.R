@@ -1,4 +1,4 @@
-# Evgeni Grazhdankin
+# Kuura Variskallio
 # 14.11.2021
 # Create `alc` dataset.
 

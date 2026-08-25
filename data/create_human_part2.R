@@ -1,4 +1,4 @@
-# Evgeni Grazhdankin
+# Kuura Variskallio
 # 26.11.2021
 # Create `human` dataset part 2.
 

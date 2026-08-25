@@ -17,7 +17,8 @@ This week, we are analyzing and modeling a dataset that describes various aspect
 
 ## Dataset
 
-Begin by loading the analysis data. Let's use the "official" csv-file; an R script to produce the wrangled data is in the [repo](https://github.com/evgrazhda/IODS-project).
+Begin by loading the analysis data. Let's use the "official" csv-file; an R script to produce the wrangled data is in the 
+[repo](https://github.com/kuuravar/IODS-project).
 
 ```{r}
 rm(list=ls())
